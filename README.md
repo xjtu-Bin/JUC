@@ -1,4 +1,8 @@
 # JUC
+## 各个Module介绍
+lock:锁相关demo，目前包括自旋锁。
+jucutils:juc下的一些工具demo,目前包括countDownLatch(**包含枚举类使用**),CyclicBarrier,Semaphore.
+designpattern:设计模式，目前包括单例模式。
 ## 锁相关
 > 公平锁
 
